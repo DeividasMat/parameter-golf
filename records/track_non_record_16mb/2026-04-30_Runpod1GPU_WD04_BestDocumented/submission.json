@@ -1,0 +1,16 @@
+{
+  "author": "Deividas Mataciunas",
+  "github_id": "DeividasMat",
+  "name": "Runpod 1GPU WD04 Best Documented",
+  "blurb": "Best documented 1xH100 checkpoint recovered from local branch notes. Uses the winner-adjacent wd=0.04 line and records a final_int8_zlib_roundtrip_exact val_bpb of 1.37843732 under the 16MB cap. This is a transparent non-record package because the original raw train log is no longer present locally.",
+  "date": "2026-04-30T00:00:00Z",
+  "track": "non-record-1gpu-16mb",
+  "val_bpb": 1.37843732,
+  "ttt_val_bpb": 1.3908,
+  "bytes_total": 11219666,
+  "bytes_model_int8_zlib": 11148939,
+  "bytes_code": 70727,
+  "result_source": "BEST_RESULTS.md",
+  "run_id": "top10_winner_wd04",
+  "raw_log_available": false
+}
